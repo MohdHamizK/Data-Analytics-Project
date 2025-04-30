@@ -9,5 +9,4 @@ This project delves into the world of online electronics sales by analyzing a da
 Python (Data analysis and visualization)
 Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
-
-
+Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hamiz-k-5b1974272/)
